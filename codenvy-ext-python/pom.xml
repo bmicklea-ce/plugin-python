@@ -16,7 +16,7 @@
     <parent>
         <artifactId>codenvy-plugin-python-parent</artifactId>
         <groupId>com.codenvy.plugin-python</groupId>
-        <version>1.3.1</version>
+        <version>1.3.2-SNAPSHOT</version>
     </parent>
     <artifactId>codenvy-ext-python</artifactId>
     <packaging>jar</packaging>
